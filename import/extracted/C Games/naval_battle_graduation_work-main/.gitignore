@@ -1,0 +1,34 @@
+# Arquivos compilados
+*.o
+*.out
+*.exe
+batalha_naval
+test_display
+
+# Arquivos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Arquivos de editor
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sublime-*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de backup
+*.bak
+*.backup

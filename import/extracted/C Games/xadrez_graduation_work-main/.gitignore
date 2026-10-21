@@ -1,0 +1,25 @@
+# Executável compilado
+xadrez
+
+# Arquivos objeto
+*.o
+
+# Arquivos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+# Arquivos compilados
+*.o
+*.obj
+xadrez
+xadrez.exe
+
+# Arquivos temporários
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Arquivos de debug
+*.dSYM/
